@@ -1,7 +1,7 @@
 <h2>Git User search using gitapi and angular2</h2>
 
 This Repo is Made from Angular 2 Webpack starter pack as the base https://github.com/AngularClass/angular2-webpack-starter.
-Please folow the linkl if you want a quickstart guide to develop Angular 2 Applications.
+Please folow the link if you want a quickstart guide to develop Angular 2 Applications.
 
 This App Searches the GitHub for Users you enter and displays their Repo and their personal details they wished to show
 
